@@ -9,7 +9,7 @@ Let's proceed,
 
 - Go to system settings from settings menu in superadmin panel
 - Move to the section 'Update Product' on that page
-- Upload the file 'update_1.4.zip' which is located at Update pack > v1.4 folder inside your copy of Ekattor8 downloaded from Codecanyon.
+- Upload the file 'update_1.4.zip' which is located at Update pack > v1.4 folder inside your copy of cirroSchool downloaded from Codecanyon.
 - Hit the button 'Update'.
 - For version 1.4 update if you face 500 error then don't worry your product is alredy updated. You can check it from your Superadmin panel. Go to Settings > About. You will see your version is updated to version 1.4
 - If you encounter any layout related issues, clear your browser cache. Press the following shortcut keys to clear your browser cache.
