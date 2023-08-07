@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `ekattor8_v1.7`
+-- Database: `cirroSchool_v1.7`
 --
 
 -- --------------------------------------------------------
@@ -449,7 +449,7 @@ CREATE TABLE `faq` (
 --
 
 INSERT INTO `faq` (`id`, `title`, `description`) VALUES
-(1, 'What is Ekattor 8?', 'Ekattor 8 is a collection of programs designed to assist schools in administering their executive responsibilities on a day-to-day basis. Ekattor 8 is an updated version of Ekattor ERP (Enterprise Resource Planning). Also, Ekattor 8 is designed for SAAS (Software as a Service) projects.'),
+(1, 'What is cirroSchool?', 'cirroSchool is a collection of programs designed to assist schools in administering their executive responsibilities on a day-to-day basis. cirroSchool is an updated version of CirroSchool ERP (Enterprise Resource Planning). Also, cirroSchool is designed for SAAS (Software as a Service) projects.'),
 (2, 'How can I get developed my customer features?', 'Custom features do not coming with product support. You can contact our support center and send us details about your requirement. If our schedule is open, we can give you a quotation and take your project according to the contract.'),
 (5, 'Which license to choose for my client project?', 'If you use academy LMS for a commercial project of a client, you will be required extended license.'),
 (6, 'How much time will I get developer support?', 'By default, you are entitled to developer support for 6 months from the date of your purchase. Later on anytime you can renew the support pack if you need developer support. If you don’t need any developer support, you don’t need to buy it.');
@@ -489,9 +489,9 @@ CREATE TABLE `global_settings` (
 --
 
 INSERT INTO `global_settings` (`id`, `key`, `value`) VALUES
-(1, 'system_name', 'Ekattor8 School Management'),
-(2, 'system_title', 'Ekattor8'),
-(3, 'system_email', 'ekattor@example.com'),
+(1, 'system_name', 'cirroSchool School Management'),
+(2, 'system_title', 'cirroSchool'),
+(3, 'system_email', 'cirroSchool@example.com'),
 (4, 'phone', '900500000'),
 (5, 'address', '4333 Factoria Blvd SE, Bellevue, WA 98006'),
 (6, 'purchase_code', NULL),
@@ -527,12 +527,12 @@ INSERT INTO `global_settings` (`id`, `key`, `value`) VALUES
 (41, 'instagram_link', 'http://www.instagram.com/creativeitem'),
 (42, 'price_subtitle', 'Choose the best subscription plan for your school'),
 (43, 'copyright_text', '2022 Academy, All rights reserved'),
-(44, 'contact_email', 'ekattor@domain.com'),
-(45, 'frontend_footer_text', 'Ekattor 8 is a collection of programs designed to assist schools in administering their executive responsibilities on a day-to-day basis. It is designed for SAAS (Software as a Service) projects.'),
+(44, 'contact_email', 'cirroSchool@domain.com'),
+(45, 'frontend_footer_text', 'cirroSchool is a collection of programs designed to assist schools in administering their executive responsibilities on a day-to-day basis. It is designed for SAAS (Software as a Service) projects.'),
 (46, 'faq_subtitle', 'Frequently asked questions'),
 (49, 'frontend_view', '1'),
 (50, 'white_logo', '16864783704.png'),
-(51, 'navbar_title', 'ekattor8');
+(51, 'navbar_title', 'cirroSchool');
 
 -- --------------------------------------------------------
 
@@ -1095,7 +1095,7 @@ INSERT INTO `language` (`id`, `name`, `phrase`, `translated`) VALUES
 (504, 'english', 'Please select in all fields !', 'Please select in all fields !'),
 (505, 'english', 'Please select student', 'Please select student'),
 (506, 'english', 'Download', 'Download'),
-(507, 'english', 'Ekattor', 'Ekattor'),
+(507, 'english', 'CirroSchool', 'CirroSchool'),
 (508, 'english', 'Add  Single Invoice', 'Add  Single Invoice'),
 (509, 'english', 'Add  Mass Invoice', 'Add  Mass Invoice'),
 (510, 'english', 'Update invoice', 'Update invoice'),
