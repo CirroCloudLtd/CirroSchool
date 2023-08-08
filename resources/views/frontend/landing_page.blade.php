@@ -241,7 +241,7 @@
         <div class="title-area">
             <h1>{{ get_phrase('Our Features') }}</h1>
             <h3>{{ get_phrase('Features') }}</h3>
-            <p>Make your application more advanced with cirroSchool</p>
+            <p>Make your application more advanced with Ekattor 8</p>
         </div>
         <div class="row mt-5 pt-3">
             <div class="col-lg-3 col-md-4 col-sm-6 col-12  mb-60">
@@ -339,7 +339,7 @@
                     </div>
                     <div class="service-text">
                         <h3>{{ get_phrase('Fees Management') }}</h3>
-                        <p>{{ get_phrase('Pay academic fees in a smart way with cirroSchool') }}</p>
+                        <p>{{ get_phrase('Pay academic fees in a smart way with Ekattor 8') }}</p>
                     </div>
                 </div>
             </div>

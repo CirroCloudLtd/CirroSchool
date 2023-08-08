@@ -9,7 +9,7 @@ Let's proceed,
 
 - Go to system settings from settings menu in superadmin panel
 - Move to the section 'Update Product' on that page
-- Upload the file 'update_1.3.zip' which is located at Update pack > v1.3 folder inside your copy of cirroSchool downloaded from Codecanyon.
+- Upload the file 'update_1.3.zip' which is located at Update pack > v1.3 folder inside your copy of Ekattor8 downloaded from Codecanyon.
 - Hit the button 'Update'.
 - If you encounter any layout related issues, clear your browser cache. Press the following shortcut keys to clear your browser cache.
 	a. For Windows: Ctrl + Shift + R
